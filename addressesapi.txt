@@ -3,5 +3,11 @@
 47.57.13.107:443#HK
 47.57.245.232:443#HK
 47.75.18.65:80#HK
-cf.090227.xyz:2087#CM
-cf.090227.xyz:443#CM
+cf.090227.xyz:2087#US
+cf.090227.xyz:443#US
+hk.cf.zhetengsha.eu.org:2096#US
+sg.cf.zhetengsha.eu.org:2096#US
+us.cf.zhetengsha.eu.org:2096#US
+jp.cf.zhetengsha.eu.org:2096#US
+www.wto.org:8443#官方优选 WTO 
+www.visa.com.sg#官方优选 Visa
