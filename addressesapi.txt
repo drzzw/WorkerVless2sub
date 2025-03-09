@@ -9,3 +9,4 @@ www.gov.se:443#Hk
 www.wto.org:8443#官方优选 WTO 
 www.visa.com.sg#官方优选 Visa
 icook.tw:2053#us
+proxyip.hk.fxxk.dedyn.io#HK
